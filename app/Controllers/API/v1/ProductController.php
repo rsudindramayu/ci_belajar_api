@@ -5,7 +5,7 @@ namespace App\Controllers\API\v1;
 use App\Models\Product;
 use CodeIgniter\HTTP\ResponseInterface;
 use CodeIgniter\RESTful\ResourceController;
-use \Config\Services;
+use Config\Services;
 
 class ProductController extends ResourceController
 {
